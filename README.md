@@ -22,8 +22,8 @@ A clean and responsive **Tic-Tac-Toe game** built with HTML, CSS, and JavaScript
 
 ## 🚀 Technologies Used
 
-- HTML5 – Structure
-- CSS3 – Styling
+- HTML – Structure
+- CSS – Styling
 - JavaScript – Game logic, interactivity, and AI
 
 ---
